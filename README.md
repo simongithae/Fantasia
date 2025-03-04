@@ -14,7 +14,7 @@ Fantasia is an innovative betting platform that allows users to place bets on pl
   The platform may provide users with analytics and insights into player performance metrics, helping them make informed betting decisions
 
 - Security: 
-  Ensuring that the platform is secure and that betting processes are fair and transparent, possibly through the use of blockchain technology.
+  Ensuring that the platform is secure and that betting processes are fair and transparent, through the use of blockchain technology.
 
 
 
